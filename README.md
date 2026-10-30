@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20SHIPPING-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Building and shipping" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-D97706?style=for-the-badge&logo=python&logoColor=white" alt="Backend and AI focus" />
+  <img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
 </p>
 
 <p align="center">
@@ -42,6 +43,15 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-0F172A?style=for-the-badge" alt="About" /></a>
+  <a href="#technical-toolkit"><img src="https://img.shields.io/badge/Toolkit-D97706?style=for-the-badge" alt="Technical toolkit" /></a>
+  <a href="#selected-public-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge" alt="Projects" /></a>
+  <a href="#engineering-approach"><img src="https://img.shields.io/badge/Approach-0F766E?style=for-the-badge" alt="Engineering approach" /></a>
+  <a href="#github-activity"><img src="https://img.shields.io/badge/Activity-334155?style=for-the-badge" alt="GitHub activity" /></a>
+  <a href="#lets-connect"><img src="https://img.shields.io/badge/Connect-2563EB?style=for-the-badge" alt="Connect" /></a>
+</p>
 
 ## About me
 
@@ -115,11 +125,13 @@ These projects represent the areas I most want to showcase: backend architecture
       <h3>🤖 <a href="https://github.com/Attayab-31/DocAgent-with-C-support-">DocAgent — C/C++ Support</a></h3>
       <p>Multi-agent documentation tooling for codebases. Extends documentation workflows with C/C++ AST-level analysis and specialized Reader, Searcher, Writer, and Verifier agents.</p>
       <p><sub>Python · libclang · AST Parsing · LLM APIs · Multi-Agent Systems</sub></p>
+      <details><summary><strong>Explore this project</strong></summary>Specialized agents handle code reading, search, writing, and verification for C/C++ documentation workflows.</details>
     </td>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/Attayab-31/TextBook-RAG-Chemistry">TextBook RAG — Chemistry</a></h3>
       <p>Document question-answering work built around extraction, preprocessing, embeddings, semantic retrieval, and LLM response generation. The related CV project indexed 1,000+ OCR-extracted chunks.</p>
       <p><sub>Python · FAISS · Sentence Transformers · PyMuPDF · Tesseract · LLM APIs</sub></p>
+      <details><summary><strong>Explore this project</strong></summary>Document extraction, preprocessing, vector indexing, semantic retrieval, and grounded response generation.</details>
     </td>
   </tr>
   <tr>
@@ -127,11 +139,13 @@ These projects represent the areas I most want to showcase: backend architecture
       <h3>🎬 <a href="https://github.com/Attayab-31/Aura-Flux">AuraFLUX Video Studio</a></h3>
       <p>AI-assisted script-to-video workflow covering scene planning, narration, image generation, asynchronous processing, and final video rendering.</p>
       <p><sub>Python · Flask · PostgreSQL · LLM APIs · FFmpeg · MoviePy</sub></p>
+      <details><summary><strong>Explore this project</strong></summary>Turns script inputs into planned scenes, generated media, narration, and asynchronously rendered video output.</details>
     </td>
     <td width="50%" valign="top">
       <h3>🧪 <a href="https://github.com/Attayab-31/Personality-Predictor-ChatBot">Personality Predictor Chatbot</a></h3>
       <p>A conversational personality-assessment application. See the repository for the current implementation, setup instructions, and project details.</p>
       <p><sub>Project implementation and dependencies: see repository</sub></p>
+      <details><summary><strong>Explore this project</strong></summary>Conversational assessment flow for collecting responses and generating a personality prediction.</details>
     </td>
   </tr>
 </table>
@@ -187,18 +201,24 @@ I value:
 
 ## GitHub activity
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
-    alt="GitHub contribution and repository statistics"
-  />
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    alt="Most used languages across public repositories"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
+        alt="GitHub contribution and repository statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+        alt="Most used languages across public repositories"
+      />
+    </td>
+  </tr>
+</table>
 
 <sub>Language statistics reflect code detected in repositories; they are not a measure of proficiency. Activity cards are provided by a third-party service and may occasionally be unavailable.</sub>
 
