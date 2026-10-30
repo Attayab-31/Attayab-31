@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=1000&height=58&letterSpacing=0.6px&lines=%3E+Designing+reliable+Python+backend+systems;%3E+Engineering+RAG+%26+LLM+orchestration;%3E+Building+AI-powered+products+for+real+workflows;%3E+From+system+design+to+production+deployment"
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=850&color=FBBF24&center=true&vCenter=true&repeat=true&width=1000&height=58&letterSpacing=0.6px&lines=%3E+Designing+reliable+Python+backend+systems;%3E+Engineering+RAG+%26+LLM+orchestration;%3E+Building+AI-powered+products+for+real+workflows;%3E+From+system+design+to+production+deployment"
       alt="Animated terminal-style introduction: backend systems, RAG, LLM orchestration and production AI"
     />
   </a>
@@ -154,18 +154,18 @@ Some of my professional projects are proprietary. I can describe the engineering
 
 ## Engineering approach
 
-```text
-Understand the problem
-        ↓
-Design the system and data flow
-        ↓
-Build APIs, integrations, and business logic
-        ↓
-Add validation, tests, and failure handling
-        ↓
-Containerize and deploy
-        ↓
-Document, monitor, and improve
+```mermaid
+flowchart TD
+    A["Understand the problem"] --> B["Design the system and data flow"]
+    B --> C["Build APIs, integrations, and business logic"]
+    C --> D["Add validation, tests, and failure handling"]
+    D --> E["Containerize and deploy"]
+    E --> F["Document, monitor, and improve"]
+
+    classDef step fill:#0f172a,stroke:#38bdf8,color:#f8fafc,stroke-width:2px;
+    classDef deploy fill:#172033,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
+    class A,B,C,D step;
+    class E,F deploy;
 ```
 
 I value:
