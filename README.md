@@ -261,11 +261,9 @@ flowchart LR
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="Animated contribution grid snake" src="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://skyline.github.com/Attayab-31/2026">
+    <img src="https://img.shields.io/badge/Explore-2026%20GitHub%20Skyline-D97706?style=for-the-badge&logo=github&logoColor=white" alt="Explore the 2026 GitHub Skyline" />
+  </a>
 </p>
 
 <sub>Language statistics reflect code detected in repositories; they are not a measure of proficiency. Activity cards are provided by a third-party service and may occasionally be unavailable.</sub>
