@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="./assets/typing-terminal.svg"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=650&amp;size=19&amp;duration=55&amp;pause=900&amp;color=1E293B&amp;background=FFFFFF&amp;border=true&amp;borderColor=CBD5E1&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=1000&amp;height=76&amp;letterSpacing=0.2px&amp;lines=Designing+reliable+Python+backend+systems;Engineering+RAG+%26+LLM+orchestration;Building+AI+products+for+real+workflows;From+system+design+to+production+deployment"
     alt="Animated terminal-style introduction: backend systems, RAG, LLM orchestration and production AI"
     width="100%"
   />
