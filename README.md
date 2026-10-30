@@ -187,17 +187,19 @@ Some of my professional projects are proprietary. I can describe the engineering
 ## Engineering approach
 
 ```mermaid
-flowchart TD
-    A["Understand the problem"] --> B["Design the system and data flow"]
-    B --> C["Build APIs, integrations, and business logic"]
-    C --> D["Add validation, tests, and failure handling"]
-    D --> E["Containerize and deploy"]
-    E --> F["Document, monitor, and improve"]
+flowchart LR
+    A["1 · Understand"] --> B["2 · Design"]
+    B --> C["3 · Build"]
+    C --> D["4 · Validate"]
+    D --> E["5 · Deploy"]
+    E --> F["6 · Improve"]
 
     classDef step fill:#1c1917,stroke:#f59e0b,color:#fffbeb,stroke-width:2px;
-    classDef deploy fill:#1e1b4b,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
-    class A,B,C,D step;
-    class E,F deploy;
+    classDef validation fill:#052e2b,stroke:#2dd4bf,color:#ecfeff,stroke-width:2px;
+    classDef delivery fill:#1e1b4b,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
+    class A,B,C step;
+    class D validation;
+    class E,F delivery;
 ```
 
 I value:
