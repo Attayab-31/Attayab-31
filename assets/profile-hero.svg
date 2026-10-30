@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Attayab Ashraf — Backend Engineering and Applied AI</title>
-  <desc id="desc">A dark navy engineering banner with a cyan and violet system-architecture motif.</desc>
+  <desc id="desc">A dark navy engineering banner with an amber and violet system-architecture motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -8,13 +8,13 @@
       <stop offset="1" stop-color="#11112b"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="0.52" stop-color="#60a5fa"/>
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="0.52" stop-color="#fb923c"/>
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
-    <radialGradient id="glowCyan">
-      <stop offset="0" stop-color="#0891b2" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    <radialGradient id="glowAmber">
+      <stop offset="0" stop-color="#d97706" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#d97706" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowViolet">
       <stop offset="0" stop-color="#7c3aed" stop-opacity="0.26"/>
@@ -31,7 +31,7 @@
 
   <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
   <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
-  <circle cx="930" cy="150" r="270" fill="url(#glowCyan)"/>
+  <circle cx="930" cy="150" r="270" fill="url(#glowAmber)"/>
   <circle cx="1080" cy="35" r="230" fill="url(#glowViolet)"/>
 
   <!-- Quiet circuit traces across the background -->
@@ -41,16 +41,16 @@
     <path d="M1200 255H1080Q1055 255 1055 230V215H1010"/>
     <path d="M875 330V300Q875 280 895 280H955"/>
   </g>
-  <g fill="#67e8f9" fill-opacity="0.65">
+  <g fill="#fbbf24" fill-opacity="0.65">
     <circle cx="520" cy="214" r="3"/><circle cx="820" cy="65" r="3"/>
     <circle cx="1010" cy="215" r="3"/><circle cx="955" cy="280" r="3"/>
   </g>
 
   <!-- Left identity block -->
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="78" y="52" width="238" height="30" rx="15" fill="#0b263a" stroke="#22d3ee" stroke-opacity="0.42"/>
+    <rect x="78" y="52" width="238" height="30" rx="15" fill="#35210a" stroke="#fbbf24" stroke-opacity="0.42"/>
     <circle cx="96" cy="67" r="4" fill="#34d399"/>
-    <text x="110" y="72" fill="#a5f3fc" font-size="11" font-weight="700" letter-spacing="2.1">ENGINEERING PORTFOLIO</text>
+    <text x="110" y="72" fill="#fde68a" font-size="11" font-weight="700" letter-spacing="2.1">ENGINEERING PORTFOLIO</text>
 
     <text x="76" y="151" fill="#f8fafc" font-size="43" font-weight="750" letter-spacing="-1.2">MUHAMMAD ATTAYAB</text>
     <text x="78" y="197" fill="#e2e8f0" font-size="31" font-weight="550" letter-spacing="1.5">ASHRAF</text>
@@ -62,23 +62,23 @@
   <!-- Abstract system graph: API, retrieval, data, model -->
   <g transform="translate(865 165)">
     <circle r="124" fill="none" stroke="#64748b" stroke-opacity="0.19" stroke-width="1" stroke-dasharray="3 8"/>
-    <circle r="91" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.2"/>
+    <circle r="91" fill="none" stroke="#fbbf24" stroke-opacity="0.25" stroke-width="1.2"/>
     <circle r="64" fill="#0b1b31" stroke="url(#accent)" stroke-width="2.2"/>
     <circle r="54" fill="#0d2038" stroke="#93c5fd" stroke-opacity="0.18"/>
     <text x="0" y="-3" text-anchor="middle" fill="#f8fafc" font-family="JetBrains Mono, Consolas, monospace" font-size="21" font-weight="700">&lt;/&gt;</text>
-    <text x="0" y="20" text-anchor="middle" fill="#67e8f9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">SYSTEMS</text>
+    <text x="0" y="20" text-anchor="middle" fill="#fde68a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">SYSTEMS</text>
 
     <g stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8" fill="none">
       <path d="M-55 -42L-105 -82"/><path d="M56 -42L105 -82"/>
       <path d="M-62 24L-112 58"/><path d="M62 24L112 58"/>
     </g>
     <g font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">
-      <g transform="translate(-111 -88)"><rect x="-31" y="-16" width="62" height="32" rx="9" fill="#0b263a" stroke="#22d3ee" stroke-opacity="0.75"/><text y="4" fill="#a5f3fc">API</text></g>
+      <g transform="translate(-111 -88)"><rect x="-31" y="-16" width="62" height="32" rx="9" fill="#35210a" stroke="#fbbf24" stroke-opacity="0.75"/><text y="4" fill="#fde68a">API</text></g>
       <g transform="translate(111 -88)"><rect x="-31" y="-16" width="62" height="32" rx="9" fill="#181b3b" stroke="#a78bfa" stroke-opacity="0.85"/><text y="4" fill="#ddd6fe">LLM</text></g>
       <g transform="translate(-118 65)"><rect x="-34" y="-16" width="68" height="32" rx="9" fill="#102b2d" stroke="#34d399" stroke-opacity="0.8"/><text y="4" fill="#a7f3d0">DATA</text></g>
-      <g transform="translate(118 65)"><rect x="-34" y="-16" width="68" height="32" rx="9" fill="#17233f" stroke="#60a5fa" stroke-opacity="0.8"/><text y="4" fill="#bfdbfe">RAG</text></g>
+      <g transform="translate(118 65)"><rect x="-34" y="-16" width="68" height="32" rx="9" fill="#35210a" stroke="#fb923c" stroke-opacity="0.8"/><text y="4" fill="#fed7aa">RAG</text></g>
     </g>
-    <g fill="#67e8f9">
+    <g fill="#fbbf24">
       <circle cx="-55" cy="-42" r="3.2"/><circle cx="56" cy="-42" r="3.2"/>
       <circle cx="-62" cy="24" r="3.2"/><circle cx="62" cy="24" r="3.2"/>
     </g>

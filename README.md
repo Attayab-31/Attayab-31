@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ENGINEERING%20IN%20PROGRESS-0F766E?style=flat-square&logo=github&logoColor=white" alt="Engineering in progress" />
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-1D4ED8?style=flat-square" alt="Backend and AI focus" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20SHIPPING-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Building and shipping" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-D97706?style=for-the-badge&logo=python&logoColor=white" alt="Backend and AI focus" />
 </p>
 
 <p align="center">
@@ -45,16 +45,20 @@
 
 ## About me
 
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Backend systems</strong><br/>REST APIs, service architecture, databases, integrations, authentication, and asynchronous processing.</td>
+    <td width="50%" valign="top"><strong>Applied AI</strong><br/>RAG, embeddings, semantic search, OCR workflows, and multi-agent orchestration.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>Production delivery</strong><br/>Docker, migrations, testing, retries, monitoring, and dependable deployments.</td>
+    <td width="50%" valign="top"><strong>Current role</strong><br/>Python Developer at <strong>DevVerx</strong>, building practical backend and AI systems.</td>
+  </tr>
+</table>
+
 I'm a **Backend Engineer focused on Python systems and applied AI/LLM engineering**. I build backend services, data-processing workflows, and AI-powered applications that connect APIs, databases, background workers, and model providers into dependable products.
 
 I currently work as a **Python Developer at DevVerx**, and also bring freelance experience delivering end-to-end client systems — from architecture and implementation to deployment and handover.
-
-My engineering interests include:
-
-- **Backend systems:** API design, service architecture, database-backed applications, integrations, and asynchronous processing.
-- **Applied AI:** Retrieval-Augmented Generation (RAG), semantic search, embeddings, OCR-based document processing, and multi-agent workflows.
-- **LLM applications:** Multi-provider orchestration, structured outputs, fallback handling, and AI-assisted automation.
-- **Production engineering:** Dockerized deployments, database migrations, authentication, background jobs, testing, and operational reliability.
 
 I enjoy working where **backend engineering meets practical AI** — turning complex workflows into maintainable software.
 
@@ -67,26 +71,26 @@ I enjoy working where **backend engineering meets practical AI** — turning com
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-Design%20%26%20Integration-2563EB?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Design%20%26%20Integration-92400E?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-7C2D12?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Celery-Background%20Jobs-166534?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
 ### AI, LLM & data systems
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-7C3AED?style=flat-square" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-009688?style=flat-square" alt="FAISS" />
-  <img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-0F766E?style=flat-square" alt="Sentence Transformers" />
-  <img src="https://img.shields.io/badge/OCR-Document%20Processing-475569?style=flat-square" alt="OCR document processing" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-7C3AED?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-087F5B?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-B45309?style=for-the-badge" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/OCR-Document%20Processing-475569?style=for-the-badge" alt="OCR document processing" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/Groq-LLM%20Inference-F55036?style=flat-square" alt="Groq" />
-  <img src="https://img.shields.io/badge/OpenRouter-Model%20Routing-6366F1?style=flat-square" alt="OpenRouter" />
-  <img src="https://img.shields.io/badge/Multi--Agent-Workflows-7C3AED?style=flat-square" alt="Multi-agent workflows" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-A8431A?style=for-the-badge" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Groq-LLM%20Inference-C2410C?style=for-the-badge" alt="Groq" />
+  <img src="https://img.shields.io/badge/OpenRouter-Model%20Routing-6D28D9?style=for-the-badge" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Workflows-7C3AED?style=for-the-badge" alt="Multi-agent workflows" />
 </p>
 
 ### Databases, infrastructure & delivery
@@ -97,8 +101,8 @@ I enjoy working where **backend engineering meets practical AI** — turning com
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&perline=4" alt="Git, GitHub, GitHub Actions and Linux" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-Multi--service%20Deployments-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Cognito-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2, S3 and Cognito" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-Multi--service%20Deployments-1E40AF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Cognito-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2, S3 and Cognito" />
 </p>
 
 ## Selected public projects
@@ -134,10 +138,14 @@ These projects represent the areas I most want to showcase: backend architecture
 
 ### More projects & experiments
 
-- [Pakistan Election Prediction 2024](https://github.com/Attayab-31/Pakistan-Election-Prediction-2024)
-- [Aixploria Website Scrapper](https://github.com/Attayab-31/Aixploria-Website-Scrapper)
-- [Ludo Titan Automation](https://github.com/Attayab-31/Ludo-Titan-Automation)
-- [PrismHD](https://github.com/Attayab-31/PrismHD)
+<details>
+  <summary><strong>Explore additional repositories</strong></summary>
+
+- [Pakistan Election Prediction 2024](https://github.com/Attayab-31/Pakistan-Election-Prediction-2024) — Election prediction and data analysis.
+- [Aixploria Website Scrapper](https://github.com/Attayab-31/Aixploria-Website-Scrapper) — Website discovery and scraping workflow.
+- [Ludo Titan Automation](https://github.com/Attayab-31/Ludo-Titan-Automation) — Browser automation experiment.
+- [PrismHD](https://github.com/Attayab-31/PrismHD) — Video-related project.
+</details>
 
 ## Selected client engineering work
 
@@ -162,8 +170,8 @@ flowchart TD
     D --> E["Containerize and deploy"]
     E --> F["Document, monitor, and improve"]
 
-    classDef step fill:#0f172a,stroke:#38bdf8,color:#f8fafc,stroke-width:2px;
-    classDef deploy fill:#172033,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
+    classDef step fill:#1c1917,stroke:#f59e0b,color:#fffbeb,stroke-width:2px;
+    classDef deploy fill:#1e1b4b,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
     class A,B,C,D step;
     class E,F deploy;
 ```
@@ -182,12 +190,12 @@ I value:
 <p align="center">
   <img
     height="170"
-    src="https://github-stats-extended.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
     alt="GitHub contribution and repository statistics"
   />
   <img
     height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
     alt="Most used languages across public repositories"
   />
 </p>
@@ -196,19 +204,25 @@ I value:
 
 ## Certifications
 
-- [IBM — DevOps](https://www.coursera.org/account/accomplishments/verify/TIWZA609JI4T)
-- [IBM — Python for AI](https://www.coursera.org/account/accomplishments/certificate/A4XJZ8RJQ43V)
+- **IBM — DevOps**
+  [View verification](https://www.coursera.org/account/accomplishments/verify/TIWZA609JI4T)
+- **IBM — Python for AI**
+  [View certificate](https://www.coursera.org/account/accomplishments/certificate/A4XJZ8RJQ43V)
 
 ## Let's connect
 
 I'm based in **Lahore, Pakistan** and open to **Backend Engineer, AI Engineer, and LLM Engineer** opportunities, including remote and on-site roles.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/attayab-ashraf-519562262/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:attayabpc2@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Attayab-31">GitHub</a>
+  <a href="https://www.linkedin.com/in/attayab-ashraf-519562262/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:attayabpc2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Attayab-31">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
