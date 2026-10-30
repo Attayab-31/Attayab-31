@@ -136,13 +136,13 @@ These projects represent the areas I most want to showcase: backend architecture
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Attayab-31/DocAgent-with-C-support-">DocAgent — C/C++ Support</a></h3>
+      <h3><img src="./assets/project-docagent.svg" width="24" height="24" alt="" /> <a href="https://github.com/Attayab-31/DocAgent-with-C-support-">DocAgent — C/C++ Support</a></h3>
       <p>Multi-agent documentation tooling for codebases. Extends documentation workflows with C/C++ AST-level analysis and specialized Reader, Searcher, Writer, and Verifier agents.</p>
       <p><sub>Python · libclang · AST Parsing · LLM APIs · Multi-Agent Systems</sub></p>
       <details><summary><strong>Explore this project</strong></summary>Specialized agents handle code reading, search, writing, and verification for C/C++ documentation workflows.</details>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Attayab-31/TextBook-RAG-Chemistry">TextBook RAG — Chemistry</a></h3>
+      <h3><img src="./assets/project-rag.svg" width="24" height="24" alt="" /> <a href="https://github.com/Attayab-31/TextBook-RAG-Chemistry">TextBook RAG — Chemistry</a></h3>
       <p>Document question-answering work built around extraction, preprocessing, embeddings, semantic retrieval, and LLM response generation. The related CV project indexed 1,000+ OCR-extracted chunks.</p>
       <p><sub>Python · FAISS · Sentence Transformers · PyMuPDF · Tesseract · LLM APIs</sub></p>
       <details><summary><strong>Explore this project</strong></summary>Document extraction, preprocessing, vector indexing, semantic retrieval, and grounded response generation.</details>
@@ -150,13 +150,13 @@ These projects represent the areas I most want to showcase: backend architecture
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/Attayab-31/Aura-Flux">AuraFLUX Video Studio</a></h3>
+      <h3><img src="./assets/project-video.svg" width="24" height="24" alt="" /> <a href="https://github.com/Attayab-31/Aura-Flux">AuraFLUX Video Studio</a></h3>
       <p>AI-assisted script-to-video workflow covering scene planning, narration, image generation, asynchronous processing, and final video rendering.</p>
       <p><sub>Python · Flask · PostgreSQL · LLM APIs · FFmpeg · MoviePy</sub></p>
       <details><summary><strong>Explore this project</strong></summary>Turns script inputs into planned scenes, generated media, narration, and asynchronously rendered video output.</details>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/Attayab-31/Personality-Predictor-ChatBot">Personality Predictor Chatbot</a></h3>
+      <h3><img src="./assets/project-chat.svg" width="24" height="24" alt="" /> <a href="https://github.com/Attayab-31/Personality-Predictor-ChatBot">Personality Predictor Chatbot</a></h3>
       <p>A conversational personality-assessment application. See the repository for the current implementation, setup instructions, and project details.</p>
       <p><sub>Project implementation and dependencies: see repository</sub></p>
       <details><summary><strong>Explore this project</strong></summary>Conversational assessment flow for collecting responses and generating a personality prediction.</details>
