@@ -15,12 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=850&color=FBBF24&center=true&vCenter=true&repeat=true&width=1000&height=58&letterSpacing=0.6px&lines=%3E+Designing+reliable+Python+backend+systems;%3E+Engineering+RAG+%26+LLM+orchestration;%3E+Building+AI-powered+products+for+real+workflows;%3E+From+system+design+to+production+deployment"
-      alt="Animated terminal-style introduction: backend systems, RAG, LLM orchestration and production AI"
-    />
-  </a>
+  <img
+    src="./assets/typing-terminal.svg"
+    alt="Animated terminal-style introduction: backend systems, RAG, LLM orchestration and production AI"
+    width="100%"
+  />
 </p>
 
 <p align="center">
