@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20SHIPPING-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Building and shipping" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-D97706?style=for-the-badge&logo=python&logoColor=white" alt="Backend and AI focus" />
   <img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
+  <img src="https://komarev.com/ghpvc/?username=Attayab-31&label=PROFILE%20VIEWS&color=D97706&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -165,6 +166,14 @@ These projects represent the areas I most want to showcase: backend architecture
 
 Some of my professional projects are proprietary. I can describe the engineering work and outcomes here without publishing client source code, credentials, or confidential implementation details.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/RECONCILIATION%20WORKLOAD-80%25%20LESS%20MANUAL%20WORK-0F766E?style=for-the-badge" alt="80 percent reduction in reconciliation workload" />
+  <img src="https://img.shields.io/badge/ETL%20AUTOMATION-90%25%20LESS%20MANUAL%20EFFORT-D97706?style=for-the-badge" alt="90 percent reduction in ETL manual effort" />
+</p>
+
+<details>
+  <summary><strong>View selected client engineering contributions</strong></summary>
+
 | Project area | Engineering contribution |
 |---|---|
 | **ReconFY — financial reconciliation SaaS** | Built reconciliation workflows across PDF, Excel, and POS data using a Python/FastAPI and AWS-based microservices architecture. The project was reported to reduce manual reconciliation workload by approximately **80%**. |
@@ -173,6 +182,7 @@ Some of my professional projects are proprietary. I can describe the engineering
 | **ETL & workflow automation** | Developed validation, deduplication, and scheduled processing pipelines. Client work was reported to reduce manual data-processing effort by approximately **90%**. |
 
 <sub>Impact figures above are the results reported in my CV. They are not presented as independently audited benchmarks; detailed measurement context can be shared where permitted.</sub>
+</details>
 
 ## Engineering approach
 
@@ -198,6 +208,28 @@ I value:
 - Database migrations and explicit API contracts.
 - Reproducible AI workflows and honest evaluation.
 - Documentation that helps another engineer run and understand the system.
+
+## Systems mindset
+
+```mermaid
+flowchart LR
+    U["Client / Product"] --> API["FastAPI / REST API"]
+    API --> AUTH["Validation & Auth"]
+    AUTH --> LOGIC["Business Services"]
+    LOGIC --> DATA[("PostgreSQL / Redis")]
+    LOGIC --> JOBS["Celery / Background Jobs"]
+    LOGIC --> AI["RAG / LLM Providers"]
+    AI --> OBS["Logs · Metrics · Monitoring"]
+    DATA --> OBS
+    JOBS --> OBS
+
+    classDef input fill:#172033,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
+    classDef core fill:#1c1917,stroke:#f59e0b,color:#fffbeb,stroke-width:2px;
+    classDef data fill:#052e2b,stroke:#2dd4bf,color:#ecfeff,stroke-width:2px;
+    class U,API input;
+    class AUTH,LOGIC,AI core;
+    class DATA,JOBS,OBS data;
+```
 
 ## GitHub activity
 
@@ -226,6 +258,14 @@ I value:
     src="https://github-readme-streak-stats.herokuapp.com/?user=Attayab-31&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animated contribution grid snake" src="https://raw.githubusercontent.com/Attayab-31/Attayab-31/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <sub>Language statistics reflect code detected in repositories; they are not a measure of proficiency. Activity cards are provided by a third-party service and may occasionally be unavailable.</sub>
