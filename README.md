@@ -206,19 +206,27 @@ I value:
     <td width="50%" align="center">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=Attayab-31&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
         alt="GitHub contribution and repository statistics"
       />
     </td>
     <td width="50%" align="center">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Attayab-31&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
         alt="Most used languages across public repositories"
       />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img
+    width="68%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Attayab-31&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <sub>Language statistics reflect code detected in repositories; they are not a measure of proficiency. Activity cards are provided by a third-party service and may occasionally be unavailable.</sub>
 
