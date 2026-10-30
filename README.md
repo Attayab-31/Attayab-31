@@ -54,6 +54,12 @@
   <a href="#lets-connect"><img src="https://img.shields.io/badge/Connect-2563EB?style=for-the-badge" alt="Connect" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-BACKEND%20%7C%20AI%20ENGINEER-111827?style=for-the-badge" alt="Backend and AI engineer" />
+  <img src="https://img.shields.io/badge/BASE-LAHORE%2C%20PAKISTAN-334155?style=for-the-badge" alt="Based in Lahore, Pakistan" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20OPPORTUNITIES-166534?style=for-the-badge" alt="Open to opportunities" />
+</p>
+
 ## About me
 
 <table>
@@ -72,6 +78,14 @@ I'm a **Backend Engineer focused on Python systems and applied AI/LLM engineerin
 I currently work as a **Python Developer at DevVerx**, and also bring freelance experience delivering end-to-end client systems — from architecture and implementation to deployment and handover.
 
 I enjoy working where **backend engineering meets practical AI** — turning complex workflows into maintainable software.
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top"><strong>Backend Platforms</strong><br/><sub>APIs · services · databases<br/>queues · integrations</sub></td>
+    <td width="33%" align="center" valign="top"><strong>Applied AI</strong><br/><sub>RAG · OCR · embeddings<br/>LLM orchestration</sub></td>
+    <td width="34%" align="center" valign="top"><strong>Production Delivery</strong><br/><sub>Docker · CI/CD · cloud<br/>testing · monitoring</sub></td>
+  </tr>
+</table>
 
 ## Technical toolkit
 
@@ -188,11 +202,11 @@ Some of my professional projects are proprietary. I can describe the engineering
 
 ```mermaid
 flowchart LR
-    A["1 · Understand"] --> B["2 · Design"]
-    B --> C["3 · Build"]
-    C --> D["4 · Validate"]
-    D --> E["5 · Deploy"]
-    E --> F["6 · Improve"]
+    A["<b>01 · Understand</b><br/>Problem & data flow"] --> B["<b>02 · Design</b><br/>Architecture & APIs"]
+    B --> C["<b>03 · Build</b><br/>Services & integrations"]
+    C --> D["<b>04 · Validate</b><br/>Tests & failure paths"]
+    D --> E["<b>05 · Deploy</b><br/>Containers & release"]
+    E --> F["<b>06 · Improve</b><br/>Docs & observability"]
 
     classDef step fill:#1c1917,stroke:#f59e0b,color:#fffbeb,stroke-width:2px;
     classDef validation fill:#052e2b,stroke:#2dd4bf,color:#ecfeff,stroke-width:2px;
@@ -215,22 +229,21 @@ I value:
 
 ```mermaid
 flowchart LR
-    U["Client / Product"] --> API["FastAPI / REST API"]
-    API --> AUTH["Validation & Auth"]
-    AUTH --> LOGIC["Business Services"]
-    LOGIC --> DATA[("PostgreSQL / Redis")]
-    LOGIC --> JOBS["Celery / Background Jobs"]
-    LOGIC --> AI["RAG / LLM Providers"]
-    AI --> OBS["Logs · Metrics · Monitoring"]
-    DATA --> OBS
-    JOBS --> OBS
+    U["<b>Client</b><br/>Product / API"] --> GW["<b>Gateway</b><br/>Auth · validation"]
+    GW --> S["<b>Services</b><br/>Business logic"]
+    S --> D[("<b>Data</b><br/>PostgreSQL · Redis")]
+    S --> J["<b>Workers</b><br/>Celery · jobs"]
+    S --> AI["<b>AI</b><br/>RAG · providers"]
+    D --> O["<b>Observe</b><br/>Logs · metrics"]
+    J --> O
+    AI --> O
 
-    classDef input fill:#172033,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
+    classDef edge fill:#172033,stroke:#a78bfa,color:#f5f3ff,stroke-width:2px;
     classDef core fill:#1c1917,stroke:#f59e0b,color:#fffbeb,stroke-width:2px;
-    classDef data fill:#052e2b,stroke:#2dd4bf,color:#ecfeff,stroke-width:2px;
-    class U,API input;
-    class AUTH,LOGIC,AI core;
-    class DATA,JOBS,OBS data;
+    classDef platform fill:#052e2b,stroke:#2dd4bf,color:#ecfeff,stroke-width:2px;
+    class U,GW edge;
+    class S,AI core;
+    class D,J,O platform;
 ```
 
 ## GitHub activity
@@ -272,10 +285,20 @@ flowchart LR
 
 ## Certifications
 
-- **IBM — DevOps**
-  [View verification](https://www.coursera.org/account/accomplishments/verify/TIWZA609JI4T)
-- **IBM — Python for AI**
-  [View certificate](https://www.coursera.org/account/accomplishments/certificate/A4XJZ8RJQ43V)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>IBM · DevOps</strong><br/>
+      <sub>Coursera certification</sub><br/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/TIWZA609JI4T">View verification</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>IBM · Python for AI</strong><br/>
+      <sub>Coursera certification</sub><br/>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/A4XJZ8RJQ43V">View certificate</a>
+    </td>
+  </tr>
+</table>
 
 ## Let's connect
 
