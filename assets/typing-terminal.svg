@@ -10,6 +10,10 @@
     <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
       <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#0F172A" flood-opacity="0.10"/>
     </filter>
+    <clipPath id="type1"><rect x="132" y="24" width="0" height="28"><animate attributeName="width" values="0;520;520;0;0" keyTimes="0;0.10;0.22;0.26;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type2"><rect x="132" y="24" width="0" height="28"><animate attributeName="width" values="0;0;0;430;430;0;0" keyTimes="0;0.24;0.26;0.36;0.48;0.52;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type3"><rect x="132" y="24" width="0" height="28"><animate attributeName="width" values="0;0;0;430;430;0;0" keyTimes="0;0.50;0.52;0.62;0.74;0.78;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type4"><rect x="132" y="24" width="0" height="28"><animate attributeName="width" values="0;0;0;500;500;0" keyTimes="0;0.76;0.78;0.88;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect x="4" y="4" width="1192" height="68" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" filter="url(#shadow)"/>
@@ -23,26 +27,15 @@
     <text x="108" y="45" fill="#334155">&gt;</text>
 
     <g fill="#1E293B">
-      <text x="132" y="45">
-        Designing reliable Python backend systems
-        <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;1;1" keyTimes="0;0.18;0.22;0.44;0.48;0.66;0.70;0.84;0.88;0.92;0.96;1" dur="16s" repeatCount="indefinite"/>
-      </text>
-      <text x="132" y="45" opacity="0">
-        Engineering RAG &amp; LLM orchestration
-        <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0;0;0" keyTimes="0;0.18;0.22;0.44;0.48;0.66;0.70;0.84;0.88;0.92;0.96;1" dur="16s" repeatCount="indefinite"/>
-      </text>
-      <text x="132" y="45" opacity="0">
-        Building AI products for real workflows
-        <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0;0;0" keyTimes="0;0.18;0.22;0.44;0.48;0.66;0.70;0.84;0.88;0.92;0.96;1" dur="16s" repeatCount="indefinite"/>
-      </text>
-      <text x="132" y="45" opacity="0">
-        From system design to production deployment
-        <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.18;0.22;0.44;0.48;0.66;0.70;0.84;0.88;0.92;0.96;1" dur="16s" repeatCount="indefinite"/>
-      </text>
+      <text x="132" y="45" clip-path="url(#type1)">Designing reliable Python backend systems</text>
+      <text x="132" y="45" clip-path="url(#type2)">Engineering RAG &amp; LLM orchestration</text>
+      <text x="132" y="45" clip-path="url(#type3)">Building AI products for real workflows</text>
+      <text x="132" y="45" clip-path="url(#type4)">From system design to production deployment</text>
     </g>
 
-    <rect x="650" y="31" width="2" height="23" rx="1" fill="#D97706">
+    <rect x="132" y="31" width="2" height="23" rx="1" fill="#D97706">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="132;652;652;132;132;562;562;132;132;562;562;632;632;132" keyTimes="0;0.10;0.22;0.24;0.26;0.36;0.48;0.50;0.52;0.62;0.74;0.88;0.96;1" dur="16s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
