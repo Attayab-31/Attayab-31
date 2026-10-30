@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Attayab Ashraf — Backend Engineering and Applied AI</title>
+  <desc id="desc">A dark navy engineering banner with a cyan and violet system-architecture motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#101d35"/>
+      <stop offset="1" stop-color="#11112b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.52" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glowCyan">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#94a3b8" stroke-opacity="0.09" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#94a3b8" fill-opacity="0.18"/>
+    </pattern>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+  <circle cx="930" cy="150" r="270" fill="url(#glowCyan)"/>
+  <circle cx="1080" cy="35" r="230" fill="url(#glowViolet)"/>
+
+  <!-- Quiet circuit traces across the background -->
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.24">
+    <path d="M0 270H350Q390 270 390 230V214H520"/>
+    <path d="M730 0V42Q730 65 752 65H820"/>
+    <path d="M1200 255H1080Q1055 255 1055 230V215H1010"/>
+    <path d="M875 330V300Q875 280 895 280H955"/>
+  </g>
+  <g fill="#67e8f9" fill-opacity="0.65">
+    <circle cx="520" cy="214" r="3"/><circle cx="820" cy="65" r="3"/>
+    <circle cx="1010" cy="215" r="3"/><circle cx="955" cy="280" r="3"/>
+  </g>
+
+  <!-- Left identity block -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="78" y="52" width="238" height="30" rx="15" fill="#0b263a" stroke="#22d3ee" stroke-opacity="0.42"/>
+    <circle cx="96" cy="67" r="4" fill="#34d399"/>
+    <text x="110" y="72" fill="#a5f3fc" font-size="11" font-weight="700" letter-spacing="2.1">ENGINEERING PORTFOLIO</text>
+
+    <text x="76" y="151" fill="#f8fafc" font-size="43" font-weight="750" letter-spacing="-1.2">MUHAMMAD ATTAYAB</text>
+    <text x="78" y="197" fill="#e2e8f0" font-size="31" font-weight="550" letter-spacing="1.5">ASHRAF</text>
+    <rect x="78" y="218" width="340" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="78" y="252" fill="#cbd5e1" font-size="16" font-weight="500" letter-spacing="1.35">BACKEND ENGINEERING  /  APPLIED AI</text>
+    <text x="78" y="280" fill="#94a3b8" font-size="12" letter-spacing="1.7">DESIGN  ·  BUILD  ·  ORCHESTRATE  ·  SHIP</text>
+  </g>
+
+  <!-- Abstract system graph: API, retrieval, data, model -->
+  <g transform="translate(865 165)">
+    <circle r="124" fill="none" stroke="#64748b" stroke-opacity="0.19" stroke-width="1" stroke-dasharray="3 8"/>
+    <circle r="91" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.2"/>
+    <circle r="64" fill="#0b1b31" stroke="url(#accent)" stroke-width="2.2"/>
+    <circle r="54" fill="#0d2038" stroke="#93c5fd" stroke-opacity="0.18"/>
+    <text x="0" y="-3" text-anchor="middle" fill="#f8fafc" font-family="JetBrains Mono, Consolas, monospace" font-size="21" font-weight="700">&lt;/&gt;</text>
+    <text x="0" y="20" text-anchor="middle" fill="#67e8f9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">SYSTEMS</text>
+
+    <g stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8" fill="none">
+      <path d="M-55 -42L-105 -82"/><path d="M56 -42L105 -82"/>
+      <path d="M-62 24L-112 58"/><path d="M62 24L112 58"/>
+    </g>
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">
+      <g transform="translate(-111 -88)"><rect x="-31" y="-16" width="62" height="32" rx="9" fill="#0b263a" stroke="#22d3ee" stroke-opacity="0.75"/><text y="4" fill="#a5f3fc">API</text></g>
+      <g transform="translate(111 -88)"><rect x="-31" y="-16" width="62" height="32" rx="9" fill="#181b3b" stroke="#a78bfa" stroke-opacity="0.85"/><text y="4" fill="#ddd6fe">LLM</text></g>
+      <g transform="translate(-118 65)"><rect x="-34" y="-16" width="68" height="32" rx="9" fill="#102b2d" stroke="#34d399" stroke-opacity="0.8"/><text y="4" fill="#a7f3d0">DATA</text></g>
+      <g transform="translate(118 65)"><rect x="-34" y="-16" width="68" height="32" rx="9" fill="#17233f" stroke="#60a5fa" stroke-opacity="0.8"/><text y="4" fill="#bfdbfe">RAG</text></g>
+    </g>
+    <g fill="#67e8f9">
+      <circle cx="-55" cy="-42" r="3.2"/><circle cx="56" cy="-42" r="3.2"/>
+      <circle cx="-62" cy="24" r="3.2"/><circle cx="62" cy="24" r="3.2"/>
+    </g>
+  </g>
+
+  <text x="1120" y="307" text-anchor="end" fill="#64748b" font-family="JetBrains Mono, Consolas, monospace" font-size="10" letter-spacing="1.5">PYTHON  ·  BACKEND  ·  AI</text>
+  <rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#94a3b8" stroke-opacity="0.18"/>
+</svg>

@@ -1,30 +1,42 @@
- <!-- Profile README for Attayab-31 -->
+<!--
+  Profile README for github.com/Attayab-31
+  Create/update the public repository: Attayab-31/Attayab-31
+  Keep project claims, metrics, and technology lists aligned with verifiable work.
+  The hero banner is a local asset: commit assets/profile-hero.svg with this README.
+-->
+
 <p align="center">
+  <!-- Keep this asset in the profile repository at assets/profile-hero.svg -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:0EA5E9&height=210&section=header&text=Muhammad%20Attayab%20Ashraf&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Engineering%20%7C%20Applied%20AI%20%26%20LLM%20Systems&descSize=16&descAlignY=58&animation=fadeIn"
-    alt="Muhammad Attayab Ashraf — Backend Engineering and Applied AI"
+    src="./assets/profile-hero.svg"
+    alt="Muhammad Attayab Ashraf — Backend Engineering and Applied AI systems portfolio"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&height=48&lines=Building+reliable+Python+backend+systems;Engineering+RAG%2C+LLM+orchestration+%26+AI+workflows;From+system+design+to+production+deployment"
-      alt="Backend engineering, LLM systems and production AI"
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=1000&height=58&letterSpacing=0.6px&lines=%3E+Designing+reliable+Python+backend+systems;%3E+Engineering+RAG+%26+LLM+orchestration;%3E+Building+AI-powered+products+for+real+workflows;%3E+From+system+design+to+production+deployment"
+      alt="Animated terminal-style introduction: backend systems, RAG, LLM orchestration and production AI"
     />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ENGINEERING%20IN%20PROGRESS-0F766E?style=flat-square&logo=github&logoColor=white" alt="Engineering in progress" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-1D4ED8?style=flat-square" alt="Backend and AI focus" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/attayab-ashraf-519562262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:attayabpc2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
   </a>
   <a href="https://github.com/Attayab-31">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=for-the-badge" alt="Open to opportunities" />
 </p>
@@ -51,7 +63,7 @@ I enjoy working where **backend engineering meets practical AI** — turning com
 ### Backend & application engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,js,nodejs,react,ts&perline=8" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,js,nodejs,react,ts&perline=8" alt="Python, FastAPI, Flask, Django, JavaScript, Node.js, React and TypeScript" />
 </p>
 
 <p>
@@ -63,15 +75,15 @@ I enjoy working where **backend engineering meets practical AI** — turning com
 ### AI, LLM & data systems
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-7C3AED?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-7C3AED?style=flat-square" alt="Retrieval-Augmented Generation" />
   <img src="https://img.shields.io/badge/FAISS-Vector%20Search-009688?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-0F766E?style=flat-square" alt="Sentence Transformers" />
-  <img src="https://img.shields.io/badge/OCR-Document%20Processing-475569?style=flat-square" alt="OCR" />
+  <img src="https://img.shields.io/badge/OCR-Document%20Processing-475569?style=flat-square" alt="OCR document processing" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/Groq-LLM%20Inference-F55036?style=flat-square" alt="Groq" />
   <img src="https://img.shields.io/badge/OpenRouter-Model%20Routing-6366F1?style=flat-square" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/Multi--Agent-Workflows-7C3AED?style=flat-square" alt="Multi-agent workflows" />
@@ -80,13 +92,13 @@ I enjoy working where **backend engineering meets practical AI** — turning com
 ### Databases, infrastructure & delivery
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,nginx,supabase&perline=8" alt="Database and infrastructure technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,nginx,supabase&perline=8" alt="PostgreSQL, MongoDB, MySQL, Redis, Docker, AWS, Nginx and Supabase" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&perline=4" alt="Development and delivery tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&perline=4" alt="Git, GitHub, GitHub Actions and Linux" />
   <img src="https://img.shields.io/badge/Docker%20Compose-Multi--service%20Deployments-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Cognito-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Cognito-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2, S3 and Cognito" />
 </p>
 
 ## Selected public projects
