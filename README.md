@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/attayab-ashraf-519562262/">
+  <a href="https://www.linkedin.com/in/muhammad-attayab-ashraf-519562262/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:attayabpc2@gmail.com">
